@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in SPIKS<br>🌱 I’m currently learning JavaScript and React<br>⚡ Also I love digital drawing<br>...and playing video games 
+🔭 I’m currently working in SPIKS<br>🌱 I’m currently learning PHP<br>⚡ Also I love digital drawing<br>...and playing video games 
 
 
 # 💻 Tech Stack:
